@@ -38,3 +38,8 @@ ___
 - 브랜치별로 작업 -> PR -> merge까지 한 번에 진행
 
 하나의 작업에 집중하기 위하여 브랜치를 병행하지 않고 차례대로 진행하였습니다.
+
+### 🔗 페이지 연결
+- **[about.md](./members/about.md)**
+- **[skills.md](./members/skills.md)**
+- **[goals.md](./members/skills.md)**
